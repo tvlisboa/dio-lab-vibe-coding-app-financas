@@ -158,6 +158,44 @@ Interações com o lovable.dev
 #### Print-screen do dashboard
 <img width="1896" height="851" alt="image" src="https://github.com/user-attachments/assets/e3c7ea75-1c05-4965-b70d-b8fbaebe9d2c" />
 
+```markdown
+### Resumo e funcionalidades do app
+# Centavo — Aplicativo de Gestão Financeira
+
+## Visão Geral
+O **Centavo** é um aplicativo de gestão financeira pessoal com foco em simplicidade e experiência conversacional.  
+O objetivo é permitir que o usuário registre e acompanhe suas finanças de forma prática, sem formulários complexos.
+
+## Dashboard
+Resumo financeiro apresentado de forma clara e minimalista:
+
+- **Saldo do mês:** R$ 0,00  
+- **Receitas:** R$ 0,00  
+- **Despesas:** R$ 0,00  
+
+### Painéis adicionais
+- **Onde você mais gastou:** ainda não há despesas registradas.  
+- **Últimas movimentações:** instrução para usar o chat e registrar a primeira transação.  
+
+## Navegação
+Menu lateral com as seguintes opções:
+- Início
+- Chat
+- Histórico
+- Perfil
+- Sair
+
+## Interação
+- Botão de ação principal: **Conversar**  
+- O chat é o centro da experiência, permitindo registrar transações e consultar informações financeiras.
+
+## Objetivo
+Proporcionar uma experiência fluida e minimalista, inspirada em referências como Nubank, Inter e XP, priorizando:
+- Clareza visual
+- Navegação simples
+- Feedback imediato
+```
+
 
 ## 💬 Conclusão
 
